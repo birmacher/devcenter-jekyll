@@ -26,7 +26,7 @@ github_username:  bitrise-io
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: edition-jekyll-template
 plugins:
   - jekyll-feed
 
